@@ -1,0 +1,384 @@
+[[DASKR]]
+arch = "aarch64"
+git-tree-sha1 = "04b3431ee3a9c8629378e8647df3269039867022"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "8ff111078e894e4e2e72e453e770f5d722e6433eae7519f8cd5c234bea298e49"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "aarch64"
+git-tree-sha1 = "6e76e914761be723267823a5e4993428fcef3d66"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "014a94a3a913953596609b28e4a6ff1e3813374e026db821794b2e39b59db786"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "aarch64"
+git-tree-sha1 = "b06c0028914f0c24979ea38c658575a685e49e51"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "3b180e6ff83cfcbdd48c82c01350a60038f77b0e2f7437da7d536067b8bee2bf"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "aarch64"
+git-tree-sha1 = "35a3928072639b3734a8d96e84875fac13e16fb5"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "66903d7a597314adfc9163cf1485727942eee6253a8957fbf7bd35e300f19e92"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "aarch64"
+git-tree-sha1 = "160cc82954dd1b7ffafffcc79f8cfb030fcd397a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "2754dd745cc3804a7661e0890212f53497adc07be83018c35c16b68255ea4c09"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "aarch64"
+git-tree-sha1 = "54e61da1c6281eef5422bcbdc51abe1806d920a7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "b42242f682b921c08b03b3b920ba1a1f95e3a4da12e5f30d4ec54f12fc589ca9"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a00d7af502d7c01faeb51c5e99a000e50f1bd44f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "4736612fb9da982d97385de0fc438ddf106cb24ea0787cf760070dcecd76cd1e"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b2bc2de02b95462d773d81bdadcc36a3ee1613f5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "3d10dd41029cc794811fe440d2462f37c8383845bb117baa4465642d67e3f7ce"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8fa1c84a160548b12a48b10d222a02d9efea4b2d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "295ed994a1f8e35f75c5222b009262ecde2f96e379f9ddc9f58bf240ad70eb88"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "00c47e4cd8f45de57904c7c316a59eabadd0dc7d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "c2c4f54c86d8ad77dd50930cec85817b7428da46c3954b51842dcc2388ef152e"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f21393e9f5991470c2ab5827d3ed2e06a9d947fa"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "45ff345def07823cf1fcda4d98d17034079807c48b46a9e6f350f10fd973d4bc"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9515677242675ad0eb4c47f4a32f5e5cf30a5900"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "e64971e882a4881fb7c0b072c0a5b23352312beed2d54f85a55b848a2916d117"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "21b2534e49fa32baea38c233a861798778e05853"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "a95d181b7ceab69ba7272f6bcb0aba809319cba72559325a83d6dd8d334847d9"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "14e52f67df477ab7d96422bc8e9a4147ecf747c9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "0a83ea0fcaf08bff5c0b93ec130a2a4cbf50c966d864f15b6e259561eceb4e0a"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "999b3f395bffa39bb95bef4cc26a4bccea40cd9c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "da994abd753435b8b4e82b7619608429e5399055ae80eba9f5ee0a4d3a674c9b"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "363b60e46cac421b9ccbd7f9da97bfa8b3eb160c"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "1fb5901b0b2fb212aa7d70135d204bfaf89f180f6d2055b5593666a7b2dcf0f6"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "9ec83acb44f3edf76a23ef9282c25bc5d6c3f6c9"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "b1a4aa8aac519f4f3240eab21b8d4042ccd3d6915dc19efc28f5a238980c8ba5"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "05709683bea556db2d25337edb5967e3ab87f731"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "c39e6df9446358fac14322feb91766dcdb27c14bf2870565fdfe006e4c2a907b"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "99d109aed20d1e3065fa0f9dbf59c054ad6af100"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[DASKR.download]]
+    sha256 = "cb7f47fe208c2867e5250262e86c532b3a1d75c554c9702d2f5f679a0ea63dce"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "3ca3730a0214db0374856f8395605d02f71f5e03"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[DASKR.download]]
+    sha256 = "bc8bc8cac7828b18ba4421929b532544e3f938294695077ddc67394f60597c24"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "i686"
+git-tree-sha1 = "233423083d2cd2663a3e8306f5ac2eedf62da5a8"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[DASKR.download]]
+    sha256 = "afbfc9f4c12941faa857a05a43cd9e612b22a1dc8c9e14e814d92754ec95d611"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "powerpc64le"
+git-tree-sha1 = "2bbefea438353b07aa4ea8bd3deafa758cc608c1"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "fb6b49e24d34d7c5f40c6a2100c01eca8d48fd63d40f45f0ba65e1071d2d4435"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "powerpc64le"
+git-tree-sha1 = "72ee2070cd58e30b9058bfd0b27e00c3b47b9a3f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "ea8726d0fe37abf726e20567bc9da4ba9185cf3ac4d62770af573c948c58ed75"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "powerpc64le"
+git-tree-sha1 = "eccbb30e47b622ff2c2c4916cc01297c68d89460"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "587b204a956e36df295aa621242795ebaf8df529b954bf016c42814741e4d340"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "5607c9fb545fdbba88086fc5b28c2e9e6040c7d1"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[DASKR.download]]
+    sha256 = "12f9103bfd9986a9b6824a3b7008f765aab96335da5cd269605344db920eef28"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "c63ee4937658f49a784f532d6d5ea0fb7692ea65"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[DASKR.download]]
+    sha256 = "8409222fe3217df7db7ad2ba215cca4d6c1a9870125e0e68b70bdc57bda91994"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "a19ebf4acc2774f4b203d3a7edf3046291427019"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[DASKR.download]]
+    sha256 = "c687ec5ddedd8192cd1e3faa4e513accb5154c360054111dd0a049ad53336672"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "80c22b9bb47a2ab8f43afa90162ab84711cd02a5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "ed4876abcefbcbaa1d8ef2b1f78e4eacc0294114089eb9ee7b169e6ab26fac9c"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "49fd33a04b0902dc09526a7601015ae99268953e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "fe3f35c78bd047edad527d079e1e35b44d5d249856a52f5bffd42c591c603a85"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "c973b2e09d52b223433590d2d6d8a5a480b0967f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "f7d462e7584c66a77ca7485a9e6ea5e8d18ba2c2114df36b797ab7cf1a5d90fd"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "448f78b0360d88cfd97df45e4cf1645f186c7eb5"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "62a7080345fffc7e161a7f78e1cc800ea197fcd2763fbd6491cbcb0a7e329a06"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "1cae3ea1dca75505622b112689a86fa01e664257"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "f739ee60fe889fc41103e373a68da219efa964227d17acfd3a2f7d586ff311be"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "dc855c47da81e3dfa7bce5e62609679703e56133"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DASKR.download]]
+    sha256 = "22244f046ce2e2c97eb7e709f2b96a5d5bf715b490dc58823d456ea16beff577"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "fc4796b08685ae77e293b6628be0fb658b2cb7ac"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[DASKR.download]]
+    sha256 = "493ca3701973baf999eb5cfdf3ba14d4fb10f589c4de29c87ce9a82017be3f04"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "f14aed98d9ba1e12b8fa221beb504d4a5c78d6f5"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[DASKR.download]]
+    sha256 = "d668f440060f0211d2a0459efb807f812f928b93ec1e24d092fe0b6a6ca01ec5"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "af6befb1404fde1e120ea5fdeaa7cdbaf783dd2b"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[DASKR.download]]
+    sha256 = "9901e6237d03ade31a097f4d8dc1cf5a9128ee420dd369f41174f849d9a99c83"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "f2e666d83b03cf38de91f7e1c2e93d1a9bce1f2a"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[DASKR.download]]
+    sha256 = "5872ae258ed4036ee5b20eb3e779f37733bdcc35008444a9ab8ea87683f3ba0e"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "54149372534b4752d20cb5334d99fbe3b9fe7e28"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[DASKR.download]]
+    sha256 = "fca6888a1e54f58e180c15f8db20a1f5f1a7e05ea920285d75dc13c64dd70144"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[DASKR]]
+arch = "x86_64"
+git-tree-sha1 = "6a02e966e3ba983109f17404611812b78088783a"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[DASKR.download]]
+    sha256 = "61309974e0e1a8b93941942941b85225ea6ac7711c67d81f8a5f4e13c3265bb1"
+    url = "https://github.com/JuliaBinaryWrappers/DASKR_jll.jl/releases/download/DASKR-v1.0.0+0/DASKR.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
